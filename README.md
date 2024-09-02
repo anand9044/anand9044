@@ -1,3 +1,4 @@
+![logo](https://github.com/anand9044/anand9044/blob/81801fa7f15274e147881a347514cae224aed40f/Screenshot%202023-08-11%20223932.png)
 <h1 align="center">Hi 👋, I'm Anand Singh</h1>
 <h3 align="center">A passionate "AI-ML" engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user- images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
